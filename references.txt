@@ -1,0 +1,7 @@
+References
+
+Study.com. (n.d.). Basic CRUD Application in Python. Retrieved June 9, 2025, from https://study.com/academy/lesson/basic-crud-application-in-python.html
+Study.com. (n.d.). SQLite Databases: Definition, Tools & Commands. Retrieved June 9, 2025, from https://study.com/academy/lesson/sqlite-databases-definition-tools-commands.html
+Study.com. (n.d.). Data Validation & Exception Handling in Python. Retrieved June 9, 2025, from https://study.com/academy/lesson/data-validation-exception-handling-in-python.html
+Oetiker, T. (2020). SQLite: The Lightweight Database. Journal of Open Source Software, 5(50), 1–5. https://doi.org/10.21105/joss.02014
+Smith, R. A. (2019). Best practices in database error handling. International Journal of Information Management, 47, 123–131. https://doi.org/10.1016/j.ijinfomgt.2019.02.006

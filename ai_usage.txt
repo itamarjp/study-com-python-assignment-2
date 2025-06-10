@@ -1,0 +1,13 @@
+AI Usage Declaration
+
+I used an AI assistant (ChatGPT by OpenAI) to support the development of my Study.com Assignment 2 for Computer Science 113.
+
+Scope of AI use:
+- I requested help generating a Python program based on the assignment prompt.
+- The AI assistant helped produce code that includes SQLite database integration, CRUD functions, input validation, error handling, and menu-based navigation.
+- The AI also helped generate APA-style references and this AI usage statement.
+
+I reviewed, tested, and modified the output to ensure accuracy and originality. No personal or confidential information was shared with the AI tool. The final submission reflects my understanding of the course material.
+
+Tool used: ChatGPT (https://chat.openai.com/)
+Date used: June 9, 2025
